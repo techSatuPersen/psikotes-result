@@ -9,7 +9,8 @@ export default defineNuxtConfig({
       colors: ['primary', 'error']
     },
     fonts: true,
-    colorMode: false
+    colorMode: false,
+    
   },
   googleFonts: {
     families: {
